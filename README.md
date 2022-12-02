@@ -1,4 +1,4 @@
-<h2>Braden Konop</h2>
+<h1>Braden Konop</h1>
 <div>
   <a href="https://www.linkedin.com/in/braden-konop/" rel="nofollow">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -9,8 +9,6 @@
 </div>
 <h3>Hello!</h3>
 <p>I'm Braden and I am a software engineering student at University of Wisconsin - Eau Claire. My most recent position was interning with Microsoft's Power Apps team during Summer 2022 in which I worked primarily in React. I will be returning to a full time position at Microsoft following my graduation.</p>
-<ul>
-  <li>💻 Languages: Javascript/Typescript, Python, C++</li>
-  <li>🤔 Interests: Frontend, full-stack web dev, automation</li>
-  <li>🎉 Hobbies: PC building, gaming, running</li>
-</ul>
+<h3>Skills</h3> 
+
+[![My Skills](https://skillicons.dev/icons?i=js,ts,css,html,py,java,react,nodejs,tailwind,mongodb,&perline=5)](https://skillicons.dev)
