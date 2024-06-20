@@ -8,7 +8,7 @@
   </a>
 </div>
 <h2>👋 Hello!</h2>
-<p>My name is Braden Konop, and I am a senior software engineering student at University of Wisconsin - Eau Claire. My most recent position was interning with Microsoft during Summer 2022 in which I worked primarily in React. I will be returning to a full time position at Microsoft following my graduation.</p>
+<p>My name is Braden Konop, a full-stack web developer.
 <h3>📕 Languages</h3> 
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,css,java,py,cpp)](https://skillicons.dev)
