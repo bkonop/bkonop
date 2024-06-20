@@ -8,7 +8,7 @@
   </a>
 </div>
 <h2>👋 Hello!</h2>
-<p>My name is Braden Konop, a full-stack web developer.
+<p>My name is Braden Konop, a full-stack web developer.</p>
 <h3>📕 Languages</h3> 
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,css,java,py,cpp)](https://skillicons.dev)
