@@ -4,13 +4,5 @@
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </div>
-<h2>👋 Hello!</h2>
-<p>My name is Braden Konop, a full-stack web developer.</p>
-<h3>📕 Languages</h3> 
-
-[![My Skills](https://skillicons.dev/icons?i=js,ts,css,java,py,cpp)](https://skillicons.dev)
-
-
-<h3>⚙️ Libraries, Tools, Frameworks</h3>
-
-[![My Skills](https://skillicons.dev/icons?i=mongodb,expressjs,react,nodejs,tailwind,materialui)](https://skillicons.dev)
+<h2>👋</h2>
+<p>My name is Brad Konop. I am a web developer and founder of a pre-launch analytics startup.</p>
